@@ -14,10 +14,10 @@ This project presents an interactive **data visualization,dashboard and storytel
 
 ## 📁 Files Included
 
-- Tableau Dashboard
-- Storyboard
-- Dashboard screenshots 
-- PDF export of visual report 
+- Tableau Dashboard PDF
+- Tableau Storyboard PDF
+- Superstore dataset
+- README Documentation
 
 ## 🎯 Objective
 
